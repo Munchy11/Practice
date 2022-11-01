@@ -15,5 +15,4 @@ sports.innerHTML = commaSpace;
 sports.innerHTML = commaSpace.replace("Soccer"," and Soccer");
 
 
-console.log(sportArray.toString().replace("Hockey", "and Badminton"));
 
